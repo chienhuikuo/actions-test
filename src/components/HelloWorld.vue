@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'Start to CI/CD NOW !',
+  name: 'HelloWorld',
   props: {
     msg: String,
   },
